@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(127, 255, 212, 0.637);
+    margin: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo-principal{
+    color: cadetblue;
+    font-size: 40px;
+}
+
+.texto-principal{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.texto-footer{
+    font-size: 23px;
+}
